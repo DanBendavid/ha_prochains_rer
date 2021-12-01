@@ -44,7 +44,7 @@ sensor:
 ## Lovelace
 
 Copier le repertoire `www/dist` dans `/config/www/prochains_rer`.  
-Ajouter une ressource Lovelace de type `Module JavaScript` avec comme valeur `/local/prochains-rer/prochains-rer.js`.  
+Ajouter une ressource Lovelace de type `Module JavaScript` avec comme valeur `/local/prochains_rer/prochains-rer.js`.  
 Ajouter une carte avec comme config:
 ```yaml
 type: 'custom:x-prochains-rer'
